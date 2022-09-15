@@ -1,0 +1,6 @@
+fastAPI
+uvicorn
+python-dotenv
+nltk==3.7
+redis
+celery

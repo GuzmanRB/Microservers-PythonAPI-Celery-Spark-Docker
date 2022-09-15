@@ -1,0 +1,31 @@
+version: "3.8"
+
+services: 
+  redis:
+    container_name: redis
+    image: redis
+    ports:
+    - "6379:6379"
+  ms_gateway:
+    build: ms_gateway
+    ports:
+    - "5000:5000"
+    volumes:
+    - ./ms_gateway:/app
+
+  ms_ner:
+    build: ms_ner
+    ports:
+    - "5001:5000"
+    volumes:
+    - ./ms_ner:/app
+     
+  ms_celery_ner:
+    build: ms_celery_ner
+    volumes:
+    - ./ms_celery_ner:/app
+    environment:
+    - CELERY_BROKER_URL=${CELERY_BROKER_URL}
+    - CELERY_BACKEND_URL=${CELERY_BACKEND_URL}
+    depends_on:
+    - redis 

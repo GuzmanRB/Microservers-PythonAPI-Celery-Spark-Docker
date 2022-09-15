@@ -1,0 +1,411 @@
+word,entity
+Castilla,LOC
+León,LOC
+Castilla,LOC
+León,LOC
+Comunidad,LOC
+Valenciana,LOC
+Baleares,LOC
+Islas,LOC
+Canarias,LOC
+Vasco,LOC
+Madrid,LOC
+Venezuela,LOC
+Unidos,LOC
+Argentina,LOC
+Francia,LOC
+Cádiz,LOC
+Valencia,LOC
+Bur,LOC
+España,LOC
+Europa,LOC
+España,LOC
+Valencia,LOC
+Valencia,LOC
+España,LOC
+España,LOC
+Brasil,LOC
+Valencia,LOC
+Valencia,LOC
+España,LOC
+Galicia,LOC
+Italia,LOC
+España,LOC
+Cádiz,LOC
+España,LOC
+Valencia,LOC
+Granada,LOC
+Granada,LOC
+Granada,LOC
+Valencia,LOC
+España,LOC
+España,LOC
+España,LOC
+España,LOC
+Po,LOC
+Po,LOC
+Belgrado,LOC
+Valencia,LOC
+Valencia,LOC
+Tri,LOC
+Tenerife,LOC
+Tenerife,LOC
+Latinoamérica,LOC
+España,LOC
+Chile,LOC
+Chile,LOC
+España,LOC
+Sara,PER
+Eric,PER
+Teresa,PER
+María,PER
+Félix,PER
+G,PER
+Laura,PER
+Carlos,PER
+Omar,PER
+Maria,PER
+Pers,PER
+Laura,PER
+Laura,PER
+Laura,PER
+Alejandro,PER
+Alejandro,PER
+Francisco,PER
+Francisco,PER
+Miguel,PER
+Carlos,PER
+Núñez,PER
+Carlos,PER
+Roberto,PER
+Roberto,PER
+Ana,PER
+Carro,PER
+Blanca,PER
+Ruth,PER
+Mar,PER
+Pilar,PER
+Daniel,PER
+Pablo,PER
+Pablo,PER
+Daniel,PER
+Patricia,PER
+Patricia,PER
+Patricia,PER
+María,PER
+María,PER
+María,PER
+María,PER
+Carmen,PER
+Cómo,PER
+Cristina,PER
+Cristina,PER
+Alej,PER
+Antonio,PER
+Eduardo,PER
+Carmen,PER
+Daniel,PER
+Laura,PER
+Maria,PER
+Monta,PER
+Edgar,PER
+Edgar,PER
+Alejandro,PER
+Alejandro,PER
+montaña,PER
+Eduardo,PER
+Alberto,PER
+Daniel,PER
+Alicia,PER
+Eva,PER
+Rafael,PER
+Laura,PER
+Mari,PER
+Mari,PER
+César,PER
+Ignacio,PER
+Elena,PER
+Carlos,PER
+Ya,PER
+María,PER
+Pablo,PER
+David,PER
+David,PER
+Luis,PER
+Christian,PER
+Mari,PER
+María,PER
+Gonzalo,PER
+Vicente,PER
+Monta,PER
+Monta,PER
+Luis,PER
+Luis,PER
+Mari,PER
+Mari,PER
+Isabel,PER
+Sil,PER
+Paula,PER
+Len,PER
+Lenin,PER
+Pilar,PER
+Rey,PER
+Rey,PER
+Vicente,PER
+Frances,PER
+Carlos,PER
+Diego,PER
+Susan,PER
+Pilar,PER
+Internacional,PER
+Valencia,PER
+Maria,PER
+Pilar,PER
+Haz,PER
+Rafa,PER
+María,PER
+Andrea,PER
+Sil,PER
+Sil,PER
+Tama,PER
+Hernández,PER
+Sil,PER
+Alej,PER
+Eduardo,PER
+Mari,PER
+Francis,PER
+Carlos,PER
+Monts,PER
+Daniel,PER
+Daniel,PER
+Elena,PER
+Alejandro,PER
+Marta,PER
+Carmen,PER
+Tri,PER
+Pablo,PER
+Alej,PER
+María,PER
+Mónica,PER
+Isabel,PER
+María,PER
+Noel,PER
+Iglesias,PER
+Laura,PER
+Monta,PER
+María,PER
+Martín,PER
+Laura,PER
+Ortega,PER
+Laura,PER
+Rodríguez,PER
+Claudia,PER
+Rodolfo,PER
+Sofía,PER
+Day,PER
+María,PER
+Rodrigo,PER
+Muñoz,PER
+Antonio,PER
+Pérez,PER
+Antonio,PER
+María,PER
+Alejandro,PER
+Maca,PER
+Alejandro,PER
+Pablo,PER
+Maca,PER
+Carla,PER
+Manuel,PER
+Luis,PER
+Cristina,PER
+Virginia,PER
+Cristina,PER
+Elena,PER
+Miguel,PER
+Sara,PER
+Carlos,PER
+María,PER
+Francisco,PER
+Manuel,PER
+Alex,PER
+Alex,PER
+María,PER
+Reyes,PER
+Marina,PER
+Emma,PER
+Mac,PER
+Francisco,PER
+Gabriel,PER
+Gabriel,PER
+Víctor,PER
+Noel,PER
+Alba,PER
+Blanco,PER
+Lucas,PER
+Tama,PER
+Rosa,PER
+Bruno,PER
+Ca,PER
+María,PER
+Carlos,PER
+Francisco,PER
+Alex,PER
+Antonio,PER
+Patric,PER
+María,PER
+Dolores,PER
+Fuente,PER
+Elena,PER
+Mari,PER
+Daniel,PER
+Marta,PER
+Miranda,PER
+Rodrigo,PER
+Gustavo,PER
+Valent,PER
+Christian,PER
+Inés,PER
+Franco,PER
+Franco,PER
+Carmen,PER
+Ana,PER
+Frances,PER
+Claudia,PER
+María,PER
+Andrea,PER
+Rafael,PER
+Par,PER
+Pablo,PER
+Francisco,PER
+Francisco,PER
+Adri,PER
+María,PER
+Car,PER
+Carlos,PER
+Cristi,PER
+María,PER
+Ferr,PER
+Carmen,PER
+Tama,PER
+Hernández,PER
+Stefan,PER
+Daniel,PER
+Daniel,PER
+Diana,PER
+Claudia,PER
+Teresa,PER
+Eduardo,PER
+Alejandro,PER
+Eduardo,PER
+Eduardo,PER
+Pablo,PER
+Pablo,PER
+Rosa,PER
+Alberto,PER
+Alberto,PER
+Alberto,PER
+Eric,PER
+Alejandro,PER
+Eric,PER
+Claudio,PER
+Sergio,PER
+Elena,PER
+Pilar,PER
+Pilar,PER
+Cristina,PER
+María,PER
+María,PER
+Encar,PER
+Alex,PER
+Elena,PER
+María,PER
+Dolores,PER
+María,PER
+San,PER
+Diego,PER
+Luisa,PER
+María,PER
+María,PER
+Sil,PER
+Anna,PER
+Muñoz,PER
+Miranda,PER
+Miranda,PER
+Ramón,PER
+Marie,PER
+Laura,PER
+Marie,PER
+Guillermo,PER
+Regina,PER
+Gabriel,PER
+Fernández,PER
+Ant,PER
+Héctor,PER
+Martin,PER
+Gloria,PER
+Adri,PER
+Cristi,PER
+Mario,PER
+Alicia,PER
+Carlos,PER
+Claudia,PER
+Claudia,PER
+Estar Montaña Universidad Internacional Valencia,ORG
+Correo,ORG
+Facultad Ciencia y Tecnología,ORG
+CP,ORG
+Universidad Internacional Valencia,ORG
+Times,ORG
+Ministerio Educación,ORG
+Ministerio Educación,ORG
+Israel,ORG
+Universidad Internacional Valencia EM,ORG
+Internacional Valencia,ORG
+Universidad Internacional Valencia,ORG
+Universidad Internacional Valencia,ORG
+Universidad Nacional,ORG
+Grupo Planeta,ORG
+Universidad Internacional Valencia,ORG
+Universidad Internacional Valencia,ORG
+Universidad Internacional Valencia,ORG
+Universidad Nacional Valencia,ORG
+Centro Lengua,ORG
+Ministerio,ORG
+Universidad Internacional Valencia,ORG
+Universidad Internacional Valencia Ministerio Educación,ORG
+Entonces,ORG
+Universidad Internacional Valencia,ORG
+Universidad Internacional Valencia,ORG
+Facultad Ingeniería,ORG
+Universidad Internacional Valencia,ORG
+Universidad Internacional Valencia,ORG
+Universidad Internacional Valencia,ORG
+Universidad Internacional Valencia,ORG
+Ministerio Educación,ORG
+Facultad Ingeniería,ORG
+Universidad Internacional Valencia,ORG
+Ministerio Educación BOE,ORG
+Universidad Internacional Valencia,ORG
+Ministerio,ORG
+Universidad Grupo,ORG
+Grupo Planeta,ORG
+Unión Europea,ORG
+Universidad Internacional Valencia,ORG
+Grupo Planeta,ORG
+Ministerio Educación,ORG
+Ucrania Rusia,ORG
+Universidad Internacional Valencia,ORG
+Universidad Internacional Valencia,ORG
+Centro,ORG
+Facultad,ORG
+Banco Sabadell,ORG
+Universidad Internacional Valencia,ORG
+Departamento Prác,ORG
+Universidad Internacional Valencia,ORG
+Er,ORG
+Er,ORG
+Centro Lengua,ORG
+Er,ORG
+Er,ORG
+Grupo Planeta,ORG
